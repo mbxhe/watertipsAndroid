@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">喝水提醒</string>
+    <string name="daily_target_label">每日目标 (毫升)</string>
+    <string name="add_200">+200 毫升</string>
+    <string name="add_300">+300 毫升</string>
+    <string name="total_today">今日进度</string>
+    <string name="reminder_title">请喝水</string>
+    <string name="reminder_text">补充水分，保持健康。</string>
+    <string name="settings">设置</string>
+    <string name="save">保存</string>
+    <string name="interval_minutes">提醒间隔 (分钟)</string>
+    <string name="start_time">开始时间 (HH:MM)</string>
+    <string name="end_time">结束时间 (HH:MM)</string>
+</resources>
+

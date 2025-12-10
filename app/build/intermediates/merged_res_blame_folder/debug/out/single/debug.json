@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.example.waterreminder.app-merged_res-37:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.waterreminder.app-main-39:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.waterreminder.app-merged_res-37:/layout_activity_main.xml.flat",
+        "source": "com.example.waterreminder.app-main-39:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.waterreminder.app-merged_res-37:/drawable_ic_notification.xml.flat",
+        "source": "com.example.waterreminder.app-main-39:/drawable/ic_notification.xml"
+    },
+    {
+        "merged": "com.example.waterreminder.app-merged_res-37:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.waterreminder.app-main-39:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.waterreminder.app-merged_res-37:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.waterreminder.app-main-39:/mipmap-anydpi-v26/ic_launcher.xml"
+    }
+]

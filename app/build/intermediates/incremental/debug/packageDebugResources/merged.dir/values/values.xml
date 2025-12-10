@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="accent_blue">#4A90E2</color>
+    <color name="background_light">#F6F7FB</color>
+    <color name="black">#000000</color>
+    <color name="card_surface">#FFFFFF</color>
+    <color name="purple_200">#BB86FC</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#018786</color>
+    <color name="text_secondary">#6B7280</color>
+    <color name="white">#FFFFFF</color>
+    <string name="add_200">+200 毫升</string>
+    <string name="add_300">+300 毫升</string>
+    <string name="app_name">喝水提醒</string>
+    <string name="daily_target_label">每日目标 (毫升)</string>
+    <string name="end_time">结束时间 (HH:MM)</string>
+    <string name="interval_minutes">提醒间隔 (分钟)</string>
+    <string name="reminder_text">补充水分，保持健康。</string>
+    <string name="reminder_title">请喝水</string>
+    <string name="save">保存</string>
+    <string name="settings">设置</string>
+    <string name="start_time">开始时间 (HH:MM)</string>
+    <string name="total_today">今日进度</string>
+    <style name="Theme.WaterReminder" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+    </style>
+</resources>
